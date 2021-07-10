@@ -14,7 +14,7 @@ In a mutual fund, the NAV is updated once per day after market hours have conclu
 
 Which is preferable? When investing in a taxable account, ETFs are the obvious choice because they make taxable events more straightforward and enable more control over taxes. The specifics are summarized [here](https://www.fidelity.com/learning-center/investment-products/etf/etfs-tax-efficiency).<sup id="fn1">[1](#f1)</sup> ETFs can be traded frequently, which is a small benefit to long-term investors. In contrast, by imposing a delay on trading shares, mutual funds encourage a long-term perspective. They also enable [automatic investment plans](https://www.investopedia.com/terms/a/automaticinvestmentplan.asp), whereas ETFs do not. Especially for small investors, a drawback of ETFs is the requirement to purchase discrete shares rather than simply investing any amount. 
 
-How consequential is the issue of investing exact amounts in ETFs? ETF share prices usually range from $30 to $250. Those at the higher end are less common and tend to [split](https://www.investopedia.com/ask/answers/what-stock-split-why-do-stocks-split/) 2:1 or 4:1 — meaning the price is divided by two or four — so that they don’t become too expensive. A small amount of money will be left uninvested regardless of share prices, unless you purchase a fractional share. Fidelity is only major broker which enables fractional trading of ETFs. See the section on practical information for how to use fractional shares.
+How consequential is the issue of investing exact amounts in ETFs? ETF share prices usually range from $30 to $250. Those at the higher end are less common and tend to [split](https://www.investopedia.com/ask/answers/what-stock-split-why-do-stocks-split/) 2:1 or 4:1 — meaning the price is divided by two or four — so that they don’t become too expensive. A small amount of money will be left uninvested regardless of share prices, unless you purchase a fractional share. Fidelity is only major broker which enables fractional trading of ETFs. See the [section on practical information](https://github.com/investindex/Practical) for how to use fractional shares.
 
 Given that the issue of precise allocation with ETFs is small, we can decide on the following rule: ETFs are preferable for taxable investing while the two types are about equally suitable for tax-advantaged investing. However, if an automatic investment plan is appealing to you, be aware that this is offered only through mutual funds.
 
@@ -23,6 +23,24 @@ Indexed mutual funds and ETFs have the advantage of low fees. To see the annual 
 Before exploring potential portfolios of stock ETFs and mutual funds, we should consider how to navigate risk. And because most people cannot keep all their money in stocks, we’ll cover how to grow a portion of your assets with bonds, which carry a spectrum of lower risk (and lower return) than the stock market can provide.
 
 &nbsp;
+
+&nbsp;
+
+[Click here for the next section.](https://github.com/investindex/Risk)
+
+&nbsp;
+
+* [Introduction to index funds](https://github.com/investindex/Index)
+* [Thinking about risk](https://github.com/investindex/Risk)
+* [Guidelines for financial planning](https://github.com/investindex/Guidelines)
+* [Building a stock portfolio](https://github.com/investindex/Portfolio)
+* [Fund proposals](https://github.com/investindex/Funds)
+* [Summary](https://github.com/investindex/Summary)
+* [Concerns for the small investor](https://github.com/investindex/Small)
+* [Concerns for the large investor](https://github.com/investindex/Large)
+* [Practical information for execution](https://github.com/investindex/Practical)
+* [Taxes](https://github.com/investindex/Taxes)
+* [Vocabulary and further resources](https://github.com/investindex/Vocab)
 
 &nbsp;
 
