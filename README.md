@@ -26,4 +26,8 @@ Before exploring potential portfolios of stock ETFs and mutual funds, we should 
 
 &nbsp;
 
+&nbsp;
+
+Footnote:
+
 <sup id="f1"> 1 </sup> ETFs are also more transparent, updating their holdings daily for anyone to view. It is possible to short sell ETF shares or buy them on [margin](https://www.investopedia.com/terms/m/margin.asp). Limit orders and stop orders are permitted, in contrast to mutual funds. ETFs can be leveraged or inverse (that is, your investment gains value when the index falls in value); these two characteristics are possible in mutual funds but are far less common. [↩](#fn1)
