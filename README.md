@@ -22,7 +22,7 @@ How consequential is the issue of investing exact amounts in ETFs? ETF share pri
 
 Given that the issue of precise allocation with ETFs is small, we can decide on the following rule: ETFs are preferable for taxable investing while the two types are about equally suitable for tax-advantaged investing. However, if an automatic investment plan is appealing to you, be aware that this is offered only through mutual funds.
 
-Indexed mutual funds and ETFs have the advantage of low fees. To see the annual fees charged by a fund, look for its [expense ratio](https://www.investopedia.com/terms/e/expenseratio.asp). All funds suggested here have expense ratios less than .40%, and some are less than .10%. Every fund has a name as well as a two- to five-letter ticker symbol, like SPTM, which serves as a short but unambiguous label for the fund.
+Indexed mutual funds and ETFs have the advantage of low fees. To see the annual fees charged by a fund, look for its [expense ratio](https://www.investopedia.com/terms/e/expenseratio.asp). All funds suggested here have expense ratios less than .40%, and some are less than .10%. Every fund has a descriptive name as well as a ticker symbol, like SPTM, which serves as a short but unambiguous label for the fund. Symbols with two to four letters are ETFs, and those with five letters are mutual funds.
 
 Before exploring potential portfolios of stock ETFs and mutual funds, we should consider how to navigate risk. And because most people cannot keep all their money in stocks, we’ll cover how to grow a portion of your assets with bonds, which carry a spectrum of lower risk (and lower return) than the stock market can provide.
 
