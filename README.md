@@ -34,6 +34,7 @@ Before exploring potential portfolios of stock ETFs and mutual funds, we should 
 
 All sections:
 
+* [Cover page](https://github.com/investindex/Intro)
 * [Introduction to index funds](https://github.com/investindex/Index)
 * [Thinking about risk](https://github.com/investindex/Risk)
 * [Guidelines for financial planning](https://github.com/investindex/Guidelines)
