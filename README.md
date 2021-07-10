@@ -1,4 +1,4 @@
-# Introduction to index funding
+# Introduction to index funds
 
 Most people are familiar with the practice of buying shares of a company’s stock in order to establish fractional ownership in the company. They are also aware that stock prices can increase or decrease, resulting in potentially large gains or losses. What is the best way for the average person to profitably invest in the stock market and achieve long-term compounding growth of their money? The evidence indicates that diversified [index funds](https://www.investopedia.com/terms/i/indexfund.asp) are an optimal way of doing so. They capture the growth of the stock market driven largely by a small fraction of companies, whose identities are difficult to predict and will shift over time. (For explanation, click [here](https://www.youtube.com/watch?v=xfdMDGIABek&ab_channel=BenFelix) and [here](https://www.youtube.com/watch?v=thNrIsU88y8&ab_channel=BenFelix)).
 
