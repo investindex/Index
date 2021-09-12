@@ -68,4 +68,8 @@ The ETF issuer State Street has a useful plot of the degree to which a fund's NA
 
 <sup id="f2"> 2 </sup> ETFs are also more transparent, updating their holdings daily for anyone to view. It is possible to short sell ETF shares or buy them on [margin](https://www.investopedia.com/terms/m/margin.asp). Limit orders and stop orders are permitted, in contrast to mutual funds. ETFs can be leveraged or inverse (that is, your investment gains value when the index falls in value); these two characteristics are possible in mutual funds but are far less common. [↩](#fn2)
 
+&nbsp;
+
+<!--
 Note for author in case of dead link: "This is why they nearly always [outperform](https://rickferri.com/wp-content/uploads/2018/05/WhitePaper.pdf) actively managed funds in the long run." Link leads to _A Case for Index Fund Portfolios_ by Richard Ferri and Alex Benke.
+-->
