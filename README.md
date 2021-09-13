@@ -68,6 +68,8 @@ Footnotes:
 
 The ETF issuer State Street has a useful plot of the degree to which a fund's NAV deviates from its share price over time. The greatest deviations occur due to large, tumultuous price movements during and after market crashes. See, for example, [SPDW](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-developed-world-ex-us-etf-spdw) and look for the section called "Premium Discount to NAV Graph and Summary". On some days shares trade at a premium — the share price is higher than the NAV — while on others they trade at a discount. The deviation is expressed in [basis points](https://www.investopedia.com/terms/b/basispoint.asp), abbreviated bps. Some funds (like [SPTM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-sp-1500-composite-stock-market-etf-sptm)) deviate much less than others (like [SPEM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-emerging-markets-etf-spem)). Schwab's fund webpages also have this feature under the "Performance" tab (e.g., [FNDX](https://www.schwabassetmanagement.com/products/fndx)), and Vanguard's webpages display it under the "Price and Performance" tab (e.g., [VT](https://investor.vanguard.com/etf/profile/VT)). [↩](#fn1)
 
+&nbsp;
+
 <sup id="f2"> 2 </sup> ETFs are also more transparent, updating their holdings daily for anyone to view. It is possible to short sell ETF shares or buy them on [margin](https://www.investopedia.com/terms/m/margin.asp). Limit orders and stop orders are permitted, in contrast to mutual funds. ETFs can be leveraged or inverse (that is, your investment gains value when the index falls in value); these two characteristics are possible in mutual funds but are far less common. [↩](#fn2)
 
 &nbsp;
