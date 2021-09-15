@@ -16,7 +16,7 @@ A fund can increase the wealth of its shareholders in two ways. The first is _ca
 
 While a concrete cash payment may be appealing, a payment to shareholders implies an equivalent reduction in the value of each share. By definition, each share is worth $0.65 less after the dividend, and there is [no reason to prefer](https://www.youtube.com/watch?v=f5j9v9dfinQ&ab_channel=BenFelix) a $0.65 per share dividend payment to a $0.65 increase in the share price. The advisable response to dividend payments is to pretend they never happened and immediately reinvest them, unless you happen to need the cash. If you need to generate income at any time, you can simply sell shares. The drawback of dividends is that they compel you to withdraw money from the investment, thereby creating a taxable event, even if you don't have a present need for income.
 
-The combination of a fund's capital gains plus income (assuming immediate reinvestment of income) is an important performance characteristic of the fund called its [total return](https://www.investopedia.com/terms/t/totalreturn.asp), which can be easily viewed on its webpage.
+The combination of a fund's capital gains plus income (assuming immediate reinvestment of income) is an important performance characteristic of the fund called its [total return](https://www.investopedia.com/terms/t/totalreturn.asp), which can be easily viewed on its webpage. It is generally illustrated by showing how an initial investment of $10,000 would have changed in value over time.
 
 &nbsp;
 
