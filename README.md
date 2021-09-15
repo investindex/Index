@@ -1,6 +1,6 @@
 # Introduction to index funds
 
-An investment is a commitment of resources with the potential for a positive return — a gain. Many financial investments carry some level of risk, creating the potential for a negative return — a loss. Accepting a higher level of risk may grant an investor a higher expected return.
+An investment is a commitment of resources with the potential for a positive return — a gain. Many financial investments carry some level of risk, creating the potential for a negative return — a loss. Accepting a higher level of risk may grant an investor a higher expected return. We will begin with a central arena for creating wealth through investing: the stock market.
 
 Most people are familiar with the practice of buying shares of a company’s [stock](https://www.investopedia.com/terms/s/stock.asp) in order to establish fractional ownership in the company. Ownership is also referred to as _equity_. Stock prices are related to the expected future [cash flows](https://www.investopedia.com/terms/d/dcf.asp) of a company, and those expected cash flows are why fractional ownership of a company is potentially valuable. But there are many companies you could invest in, with the potential for large gains or losses. So what is the best way for the average person to profitably invest in the stock market and achieve long-term compounding growth of their money? The evidence indicates that diversified [index funds](https://www.investopedia.com/terms/i/indexfund.asp) are an optimal way of doing so.
 
