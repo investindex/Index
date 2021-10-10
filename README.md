@@ -54,7 +54,7 @@ Today, the stock market is available to anyone with internet access and a bank a
 
 &nbsp;
 
-Before exploring potential portfolios of stock ETFs and mutual funds, we should consider how to navigate risk. And because most people cannot keep all their money in stocks, we’ll cover how to grow a portion of your assets with bonds, which carry a spectrum of lower risk (and lower return) than the stock market can provide.
+We will eventually explore potential portfolios of stock ETFs and mutual funds, but first we should consider how to navigate risk. And because most people cannot keep all their money in stocks, we’ll cover how to grow a portion of your assets with bonds, which carry a spectrum of lower risk (and lower return) than the stock market can provide.
 
 &nbsp;
 
