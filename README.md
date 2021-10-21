@@ -54,6 +54,12 @@ Today, the stock market is available to anyone with internet access and a bank a
 
 &nbsp;
 
+## Summary
+
+The stock market is a means of buying and selling fractional ownership in publicly traded companies. Equity in a company is another term that expresses owning stock. For most people, the most effective method of benefiting from fractional ownership is to purchase shares of a fund, which owns a diversified portfolio of stocks. The portfolio is directed by an index, rather than by the choices of an active manager. The fund has the potential to increase the wealth of its shareholders through increases in the value of its holdings — the many individual stocks — and through distributions, particularly cash dividends. ETFs and mutual funds are the two broad structures of these funds. They charge fees expressed as expense ratios, and low fees are one important criterion for selecting funds.
+
+&nbsp;
+
 We will eventually explore potential portfolios of stock ETFs and mutual funds, but first we should consider how to navigate risk. And because most people cannot keep all their money in stocks, we’ll cover how to grow a portion of your assets with bonds, which carry a spectrum of lower risk (and lower return) than the stock market can provide.
 
 &nbsp;
