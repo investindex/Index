@@ -113,7 +113,7 @@ How do you know what these dates will be? You can check any fund's webpage (like
 
 &nbsp;
 
-<sup id="f4"> 4 </sup> Low-turnover, broad market mutual funds can be tax-efficient, and their tax burden often differs very little from their ETF counterparts. This is [especially true](https://www.bloomberg.com/graphics/2019-vanguard-mutual-fund-tax-dodge/) of many Vanguard mutual funds due to a patent they hold. [↩](#fn4)
+<sup id="f4"> 4 </sup> Low-turnover, broad market mutual funds can be tax-efficient, and their tax burden often differs very little from their ETF counterparts. This is [especially true](https://www.bloomberg.com/graphics/2019-vanguard-mutual-fund-tax-dodge/) of many Vanguard mutual funds due to a patent they hold. [Here is a related interesting article](https://www.bloomberg.com/graphics/2019-etf-tax-dodge-lets-investors-save-big/) from Bloomberg on how heartbeat trades allow ETFs to avoid distributing capital gains to shareholders. [↩](#fn4)
 
 &nbsp;
 
