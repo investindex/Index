@@ -122,6 +122,16 @@ How do you know what these dates will be? You can check any fund's webpage (like
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 <!--
 Note for author in case of dead link: "This is why they nearly always [outperform](https://rickferri.com/wp-content/uploads/2018/05/WhitePaper.pdf) actively managed funds in the long run." Link leads to _A Case for Index Fund Portfolios_ by Richard Ferri and Alex Benke.
 -->
