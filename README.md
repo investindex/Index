@@ -89,6 +89,7 @@ All sections:
 * [Practical information for execution](https://github.com/investindex/Practical)
 * [Taxes](https://github.com/investindex/Taxes)
 * [Vocabulary and further resources](https://github.com/investindex/Vocab)
+* [Advanced topics](https://github.com/investindex/Advanced)
 
 &nbsp;
 
