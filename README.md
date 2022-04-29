@@ -50,7 +50,7 @@ Indexed mutual funds and ETFs have the advantage of low fees. To see the annual 
 
 Although this section focused on stock funds, funds can hold [securities](https://www.investopedia.com/terms/s/security.asp) other than stocks (like [bonds](https://github.com/investindex/Risk#understanding-bonds-and-their-risks)). Every fund has a descriptive name as well as a ticker symbol, which serves as a short but unambiguous label for the fund. The "Avantis US Small Cap Value ETF" has the ticker symbol [AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html). ETF tickers have two to four letters, and mutual fund tickers have five letters ending in an _X_ like [SWAGX](https://www.schwabassetmanagement.com/products/swagx).
 
-There are many asset managers that provide ETFs and mutual funds. Some of them also offer [brokerage](https://www.schwab.com/brokerage/what-is-a-brokerage-account) services — like Fidelity, Schwab, and Vanguard — and some of them do not, like BlackRock, State Street, and Invesco. These asset managers and others will be discussed in a [later section](https://github.com/investindex/Fund/blob/main/README.md).
+There are many asset managers that provide ETFs and mutual funds. Some of them also offer [brokerage](https://www.schwab.com/brokerage/what-is-a-brokerage-account) services — like Fidelity, Schwab, and Vanguard — and some of them do not, like BlackRock, State Street, and Invesco. You could, for instance, buy shares of a BlackRock ETF in a Schwab brokerage account. These asset managers and others will be discussed in a [later section](https://github.com/investindex/Fund/blob/main/README.md).
 
 &nbsp;
 
