@@ -72,7 +72,7 @@ When reading business news in outlets like _The Wall Street Journal_, you'll oft
 
 The [Nasdaq Composite](https://en.wikipedia.org/wiki/Nasdaq_Composite) and the [Dow Jones Industrial Average](https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average), sometimes called the Dow or Dow 30, are not good representations of anything. Their movements are reported chiefly due to their historical significance. The Dow was first published in 1896. A few well-known indices in other countries are the [FTSE 100](https://en.wikipedia.org/wiki/FTSE_100_Index) in the UK, the [DAX](https://en.wikipedia.org/wiki/DAX) in Germany, and the [Nikkei](https://en.wikipedia.org/wiki/Nikkei_225) in Japan.
 
-For the purpose of investing in funds, it's impractical to invest separately in many countries. So there are broader indices, such as the FTSE Global All Cap Index. This index is tracked by [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt), Vanguard's total world stock ETF.
+For the purpose of investing in funds, it's impractical to invest separately in many countries. So there are broader indices, such as the FTSE Global All Cap Index. This index is tracked by [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt), Vanguard's total world stock ETF. You can check VT anytime on [Yahoo! Finance](https://finance.yahoo.com/quote/VT) to see how the global stock market is moving.
 
 &nbsp;
 
