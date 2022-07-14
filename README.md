@@ -66,6 +66,16 @@ There are many asset managers that provide ETFs and mutual funds. Some of them a
 
 &nbsp;
 
+## Common indices
+
+When reading business news in outlets like _The Wall Street Journal_, you'll often read about changes in different indices. The most widely reported in the US are the S&P 500, the Dow Jones Industrial Average (DJIA), and the Nasdaq Composite (often shortened to the Nasdaq). As described above, the S&P 500 is a decent representation of US stocks, but for a more comprehensive view, you could observe the movements of an ETF like [VTI](https://investor.vanguard.com/investment-products/etfs/profile/vti), Vanguard's total US stock ETF. The easiest way to view price changes is with a third-party website or app like [Yahoo! Finance](https://finance.yahoo.com/quote/VTI).
+
+The [Nasdaq Composite](https://en.wikipedia.org/wiki/Nasdaq_Composite) and the [Dow Jones Industrial Average](https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average), sometimes called the Dow or Dow 30, are not good representations of anything. Their movements are reported chiefly due to their historical significance. The Dow was first published in 1896. A few well-known indices in other countries are the [FTSE 100](https://en.wikipedia.org/wiki/FTSE_100_Index) in the UK, the [DAX](https://en.wikipedia.org/wiki/DAX) in Germany, and the [Nikkei](https://en.wikipedia.org/wiki/Nikkei_225) in Japan.
+
+For the purpose of investing in funds, it's impractical to invest separately in many countries. So there are broader indices, such as the FTSE Global All Cap Index. This index is tracked by [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt), Vanguard's total world stock ETF.
+
+&nbsp;
+
 ## Investing is easy now
 
 Investing in the stock market used to mean accepting a heavy burden of fees. Many mutual funds had a large fee upon purchasing or selling shares. A fee of 8% was typical: you would pay 8% of your investment for the privilege of investing the other 92%. Expense ratios used to be much higher, at least 1%. Commissions for purchasing individual stocks were high: it was common decades ago to pay your broker 1% of the value of the shares you were purchasing (or an expensive flat fee). And you had to buy shares in multiples of 100, or face even higher commissions. The need to buy at least 100 shares of each company meant that building a diversified portfolio of stocks on your own required already having a lot of money.
@@ -80,7 +90,7 @@ The stock market is a means of buying and selling fractional ownership in public
 
 &nbsp;
 
-The book [Why Does the Stock Market Go Up?](https://libgen.rs/search.php?req=Brian+Feroldi+Why+Does+The+Stock+Market+Go+Up%3F&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def) by Brian Feroldi is a brief explainer on many common questions about the stock market. Various books are recommended throughout the guide; they're all rounded up in the [vocabulary and further resources](https://github.com/investindex/Vocab) section.
+The book _[Why Does the Stock Market Go Up?](https://libgen.rs/search.php?req=Brian+Feroldi+Why+Does+The+Stock+Market+Go+Up%3F&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)_ is a brief explainer on many common questions about the stock market. Various books are recommended throughout the guide; they're all rounded up in the [vocabulary and further resources](https://github.com/investindex/Vocab) section.
 
 &nbsp;
 
@@ -145,8 +155,8 @@ How do you know what these dates will be? You can check any fund's webpage (like
 
 Younger companies with high growth potential don't tend to pay dividends, because that cash is important fuel for their growth. A company may distribute dividends or buy back shares instead of reinvesting the cash because it is relatively mature and believes that the best use of some of its cash is to directly benefit shareholders. Stock buybacks have an effect on the shareholder which is substantively similar to the effect of dividends, except that buybacks are more tax-efficient because they don't compel the stockholder to experience a taxable event.
 
-Many people, who are generally not the most informed about financial markets, castigate dividends as "free money" for the elite stockholders of society — just another way the rich get richer. As I've hopefully made clear, comments like these reflect multiple layers of misunderstanding. Not only does each dividend payment cause the share price to fall — eliminating the benefit of the dividend _per se_ — but every day someone holds a stock or stock fund, they are bearing a great deal of risk. Stock buybacks have very similar benefits for shareholders but, as far as I can tell, the dividend critics don't tend to criticize buybacks (and vice versa). [↩](#fn6)
-
+Many people, who are generally not the most informed about financial markets, castigate dividends as "free money" for the elite stockholders of society — just another way the rich get richer. As I've hopefully made clear, comments like these reflect multiple layers of misunderstanding. Not only does each dividend payment cause the share price to fall — eliminating the benefit of the dividend _per se_ — but every day someone holds a stock or stock fund, they are bearing a great deal of risk. A cash dividend means owners of a company (including its cash) are giving themselves that money, and reducing the value of the company by an equivalent amount; it is not a cheat code. Stock buybacks have very similar benefits for shareholders but, as far as I can tell, the dividend critics don't tend to criticize buybacks (and vice versa). [↩](#fn6)
+  
 &nbsp;
 
 &nbsp;
