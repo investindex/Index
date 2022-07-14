@@ -24,7 +24,7 @@ You can trade shares of a company or fund in a [brokerage account](https://www.s
 
 ## ETFs and mutual funds
 
-There are two broad types of funds whose shares can be purchased to track an index: mutual funds and exchange-traded funds (ETFs). In both cases, shares are [not limited](https://www.investopedia.com/terms/o/open-endfund.asp) as they are when issued by a company, so purchasing shares can be thought of as inserting money into a common pool.
+There are two broad types of funds whose shares can be purchased to track an index: mutual funds and exchange-traded funds (ETFs). In both cases, shares are [not limited](https://www.investopedia.com/terms/o/open-endfund.asp) as they are when issued by a company, so purchasing shares can be thought of as inserting money into a common pool. Both ETFs and mutual funds can be actively managed or track an index, so the term "index fund" is not limited to either type of fund; a fund is an index fund if its portfolio is dictated by an index.
 
 In an exchange-traded fund (ETF), shares are [traded](https://www.ssga.com/us/en/individual/etfs/resources/education/how-etfs-are-created-and-redeemed) (from an investor’s perspective) like stocks are traded on a stock exchange. As with stocks, ETFs trade at varying prices throughout the day and can be bought and sold during market hours (9:30am-4pm ET, Mon-Fri). Also like stocks, they have a [bid-ask spread](https://www.investopedia.com/terms/b/bid-askspread.asp). A spread is one type of transaction cost. It means that the price at which a share can be bought is slightly higher than the price at which it can be sold at any given instant. For example, the price at which shares can be bought might be $116.13 while the price at which they can be sold is $116.11. The share price in this case would be defined as the midpoint between these two prices, which is $116.12. Shares are purchased discretely — you can buy 6, 14, or 23 but not 6½. So if the share price is currently $60, an investor can introduce money into the fund in multiples of $60.
 
@@ -77,6 +77,10 @@ Today, the stock market is available to anyone with internet access and a bank a
 ## Summary
 
 The stock market is a means of buying and selling fractional ownership in publicly traded companies. "Equity" in a company is another term that expresses ownership. For nearly everyone, the most effective method of benefiting from the stock market is to purchase shares of a fund, which owns a diversified portfolio of stocks. The portfolio should be directed by an index, rather than by the choices of an active manager. ETFs and mutual funds are the two broad structures of these funds. A fund has the potential to increase the wealth of its shareholders through increases in the value of its holdings — the many individual stocks — and through distributions, particularly cash dividends. A fund charges fees expressed as an expense ratio, and low fees are one important criterion for selecting funds.
+
+&nbsp;
+
+The book [Why Does the Stock Market Go Up?](https://libgen.rs/search.php?req=Brian+Feroldi+Why+Does+The+Stock+Market+Go+Up%3F&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def) by Brian Feroldi is a brief explainer on many common questions about the stock market. Various books are recommended throughout the guide; they're all rounded up in the [vocabulary and further resources](https://github.com/investindex/Vocab) section.
 
 &nbsp;
 
