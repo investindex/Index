@@ -86,7 +86,7 @@ It's impractical for a typical investor to invest in a different fund for each c
 * [UnitedHealth Group](https://finance.yahoo.com/quote/UNH)
 * [Nvidia](https://finance.yahoo.com/quote/NVDA)
 * [Taiwan Semiconductor Manufacturing Company](https://finance.yahoo.com/quote/TSM)
-* [Meta](https://finance.yahoo.com/quote/META)
+* [Johnson & Johnson](https://finance.yahoo.com/quote/JNJ)
 
 &nbsp;
 
