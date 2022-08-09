@@ -86,9 +86,9 @@ It's impractical for a typical investor to invest in a different fund for each c
 * [Tesla](https://finance.yahoo.com/quote/TSLA)
 * [Berkshire](https://finance.yahoo.com/quote/BRK-B) [Hathaway](https://finance.yahoo.com/quote/BRK-A)
 * [UnitedHealth Group](https://finance.yahoo.com/quote/UNH)
-* [Nvidia](https://finance.yahoo.com/quote/NVDA)
 * [Taiwan Semiconductor Manufacturing Company](https://finance.yahoo.com/quote/TSM)
-* [Johnson & Johnson](https://finance.yahoo.com/quote/JNJ)
+* [Visa](https://finance.yahoo.com/quote/V)
+* [Meta](https://finance.yahoo.com/quote/META)
 
 &nbsp;
 
