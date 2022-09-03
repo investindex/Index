@@ -88,7 +88,7 @@ It's impractical for a typical investor to invest in a different fund for each c
 * [UnitedHealth Group](https://finance.yahoo.com/quote/UNH)
 * [Meta](https://finance.yahoo.com/quote/META)
 * [Johnson & Johnson](https://finance.yahoo.com/quote/JNJ)
-* [Taiwan Semiconductor Manufacturing Company](https://finance.yahoo.com/quote/TSM)
+* [Visa](https://finance.yahoo.com/quote/V)
 
 If you check the holdings of an S&P 500 index fund like [VOO](https://investor.vanguard.com/investment-products/etfs/profile/voo) or [IVV](https://www.ishares.com/us/products/239726/ishares-core-sp-500-etf), you'll find that the funds hold slightly more than 500 stocks. What gives? The S&P 500 is a collection of 500 companies, and a few companies have multiple [share classes](https://www.investopedia.com/terms/s/share_class.asp). Alphabet, the parent company of Google, has class A shares ([GOOGL](https://finance.yahoo.com/quote/GOOGL)) with voting power and class C shares ([GOOG](https://finance.yahoo.com/quote/GOOG)) without. Berkshire Hathaway has class A shares ([BRK-A](https://finance.yahoo.com/quote/BRK-A)) with more voting power and an [astronomical](https://www.investopedia.com/ask/answers/021615/what-difference-between-berkshire-hathaways-class-and-class-b-shares.asp) price, and class B shares ([BRK-B](https://finance.yahoo.com/quote/BRK-B)) with less voting power. S&P 500 index funds naturally hold both share classes of each stock in proportion to their market caps. In order to calculate a company's allocation in a fund, you must add the weights of all share classes.
 
