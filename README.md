@@ -112,7 +112,7 @@ The book _[Why Does the Stock Market Go Up?](https://libgen.rs/search.php?req=Br
 
 &nbsp;
 
-We will eventually explore potential portfolios of stock ETFs and mutual funds, but first we should consider how to navigate risk. And because most people cannot keep all their money in stocks, we’ll cover how to grow a portion of your assets with bonds, which carry a spectrum of lower risk (and lower return) than the stock market can provide.
+We will eventually explore potential portfolios of stock funds, but first we should consider how to navigate risk. And because most people cannot keep all their money in stocks, we’ll cover how to grow a portion of your assets with bonds, which carry a spectrum of risk that the stock market cannot provide.
 
 &nbsp;
 
