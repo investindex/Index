@@ -32,15 +32,19 @@ You can trade shares of a company or fund in a [brokerage account](https://www.s
 
 There are two broad types of fund structures: mutual funds and exchange-traded funds (ETFs). In both cases, shares are [not limited](https://www.investopedia.com/terms/o/open-endfund.asp) as they are when issued by a company, so purchasing shares can be thought of as inserting money into a common pool. Some people restrict the term "index fund" to mutual funds only, but this is not a useful definition. Both ETFs and mutual funds can be actively managed or track an index, so the term "index fund" should not be limited to either type of fund. If a fund's portfolio is dictated by an index, it's an index fund. Thus, there are two broad structures for a fund (ETF vs. mutual fund) and two broad kinds of management (index vs. active).
 
+<p align="center">
+<img src="https://github.com/investindex/Index/blob/main/Fund%20types.png"/>
+</p>
+
+<!-- Note for author: original dimensions were width="799" height="680" -->
+
 With an exchange-traded fund (ETF), shares are [traded](https://www.ssga.com/us/en/individual/etfs/resources/education/how-etfs-are-created-and-redeemed) (from an investor’s perspective) just like stocks on an exchange. As with stocks, ETFs trade at varying prices throughout the day and can be bought and sold anytime during market hours (9:30am-4pm ET, Mon-Fri). Also like stocks, they have a [bid-ask spread](https://www.investopedia.com/terms/b/bid-askspread.asp). A spread is one type of transaction cost. It means that the price at which a share can be bought is slightly higher than the price at which it can be sold at any given instant. For example, the price at which shares can be bought might be $116.13 while the price at which they can be sold is $116.11. The share price in this case would be defined as the midpoint between these two prices, which is $116.12. Shares are purchased discretely — you can buy 6, 14, or 23 but not 6½. So if the share price is currently $60, an investor can introduce money into the fund in multiples of $60.
 
 <p align="center">
 <img src="https://github.com/investindex/Index/blob/main/Spread.png" width="459" height="338"/>
 </p>
 
-<!--
-Note for author: original dimensions were width="689" height="507"
--->
+<!-- Note for author: original dimensions were width="689" height="507" -->
 
 In contrast to stocks and ETFs, whose prices may update every second, mutual funds publish only one price per day and can be transacted only once per day. The NAV is updated after market hours have concluded at 4pm based on the fund’s net gain or loss that day. All orders to buy or sell since 4pm the prior day are executed based on the new NAV. Instead of being traded on an exchange, shares are transacted directly with the fund. There is no bid-ask spread: investors buy or sell at the same price on a given day. You can introduce any amount of money into the fund. If you decided to invest $5,000 and the NAV were $15, you would purchase 333.333 shares. If you decided to sell when the value of the fund's holdings rose by 20%, the NAV would be $18 and selling all shares would yield $6,000.
 
