@@ -33,7 +33,7 @@ You can trade shares of a company or fund in a [brokerage account](https://www.s
 There are two broad types of fund structures: mutual funds and exchange-traded funds (ETFs). In both cases, shares are [not limited](https://www.investopedia.com/terms/o/open-endfund.asp) as they are when issued by a company, so purchasing shares can be thought of as inserting money into a common pool. Some people restrict the term "index fund" to mutual funds only, but this is not a useful definition. Both ETFs and mutual funds can be actively managed or track an index, so the term "index fund" should not be limited to either type of fund. If a fund's portfolio is dictated by an index, it's an index fund. Thus, there are two broad structures for a fund (ETF vs. mutual fund) and two broad kinds of management (index vs. active).
 
 <p align="center">
-<img src="https://github.com/investindex/Index/blob/main/Fund%20types.png"/>
+<img src="https://github.com/investindex/Index/blob/main/Fund%20types.png" width="400" height="340"/>
 </p>
 
 <!-- Note for author: original dimensions were width="799" height="680" -->
