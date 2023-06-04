@@ -85,15 +85,15 @@ It's impractical for a typical investor to invest in a different fund for each c
 * [Microsoft](https://finance.yahoo.com/quote/MSFT)
 * [Alph](https://finance.yahoo.com/quote/GOOG)[abet](https://finance.yahoo.com/quote/GOOGL) (parent of Google)
 * [Amazon](https://finance.yahoo.com/quote/AMZN)
-* [Berkshire](https://finance.yahoo.com/quote/BRK-B) [Hathaway](https://finance.yahoo.com/quote/BRK-A)
 * [Nvidia](https://finance.yahoo.com/quote/NVDA)
+* [Berkshire](https://finance.yahoo.com/quote/BRK-B) [Hathaway](https://finance.yahoo.com/quote/BRK-A)
 * [Meta](https://finance.yahoo.com/quote/META)
 * [Tesla](https://finance.yahoo.com/quote/TSLA)
+* [Taiwan Semiconductor Manufacturing Company](https://finance.yahoo.com/quote/TSM)
 * [Visa](https://finance.yahoo.com/quote/V)
-* [UnitedHealth Group](https://finance.yahoo.com/quote/UNH)
 
 <!-- [Johnson & Johnson](https://finance.yahoo.com/quote/JNJ) -->
-<!-- [Taiwan Semiconductor Manufacturing Company](https://finance.yahoo.com/quote/TSM) -->
+<!-- [UnitedHealth Group](https://finance.yahoo.com/quote/UNH) -->
 <!-- [Exxon Mobil](https://finance.yahoo.com/quote/XOM) -->
 <!-- [JPMorgan Chase](https://finance.yahoo.com/quote/JPM) -->
 
