@@ -23,7 +23,7 @@ The optimality of index funds relies on the idea that financial markets are [eff
 The price of a stock is nothing mysterious: it is the last price at which a buyer and seller agreed to trade in public markets. Like anything else, a share is worth what the highest bidder is willing to pay for it. Most stocks trade very frequently — the daily trading volumes of some stocks exceed a billion dollars — so the share price changes continuously when markets are open. There is nothing intrinsically meaningful about the absolute dollar value of a share. A company is not more valuable if its share price is, say, $200 instead of $100. Costco's share price is higher than Apple's, but Apple's market cap is far larger. Price _changes_ are the concern for an investor. Similarly, the share price of a _fund_ has no intrinsic meaning, but changes in the price closely reflect the changes in the share prices of its holdings. The share price of a fund in particular is often referred to as the "net asset value" ([NAV](https://www.investopedia.com/terms/n/nav.asp)). When discussing funds I will use the terms "share price" and "NAV" interchangeably.<sup id="fn2">[[2]](#f2)</sup>
 
 <p align="center">
-<img src="https://github.com/investindex/Index/blob/main/Split.png" width="463" height="204"/>
+<img src="https://github.com/investindex/Index/blob/main/Stock%20split.png" width="463" height="204"/>
 </p>
 
 <!-- Note for author: original dimensions were width="772" height="340" -->
