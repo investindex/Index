@@ -73,10 +73,10 @@ One type of distribution is a [capital gains distribution](https://www.investope
 The most common distribution is a cash [dividend](https://www.investopedia.com/terms/d/dividend.asp), in which shareholders are paid by their company. A cash dividend means that owners of a company — including its cash and other assets — are transferring money from the company to themselves, and reducing the value of the company by an equivalent amount. Some companies distribute earnings by paying cash to stockholders, but others do not, including some of the most valuable companies in the world like Amazon, Meta, and Berkshire Hathaway. Stock funds pass this cash on to you. For example, at the end of a given quarter, a fund may announce a dividend of $0.65 per share. If you own 100 shares, you would receive a $65 dividend on the payment date.<sup id="fn4">[[4]](#f4)</sup> Note that stockholders, shareholders, and owners of a company are all synonymous here. As a fund shareholder, you don't own stocks — the fund does — so you don't have the voting rights conferred by stock ownership.
 
 <p align="center">
-<img src="https://github.com/investindex/Index/blob/main/Dividend.png" width="639" height="417"/>
+<img src="https://github.com/investindex/Index/blob/main/Dividends.png" width="675" height="385"/>
 </p>
 
-<!-- Note for author: original dimensions were width="959" height="625" -->
+<!-- Note for author: original dimensions were width="900" height="513" -->
 
 While a concrete cash payment may be appealing, a payment to shareholders implies an equivalent reduction in the value of each share. By definition, each share is worth $0.65 less after the dividend, and there is [no reason to prefer](https://www.youtube.com/watch?v=f5j9v9dfinQ&ab_channel=BenFelix) a $0.65 per share dividend payment to a $0.65 increase in the share price.<sup id="fn5">[[5]](#f5)</sup> The advisable response to dividend payments is to pretend they never happened and immediately reinvest them, unless you happen to need the cash. If you need to generate income at any time, you can simply sell shares. The drawback of dividends is that they compel you to withdraw money from the investment, thereby creating a taxable event, even if you don't have a present need for income.
 
