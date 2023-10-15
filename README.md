@@ -102,16 +102,16 @@ It's impractical for a typical investor to invest in a different fund for each c
 * [Alph](https://finance.yahoo.com/quote/GOOG)[abet](https://finance.yahoo.com/quote/GOOGL) (parent of Google)
 * [Amazon](https://finance.yahoo.com/quote/AMZN)
 * [Nvidia](https://finance.yahoo.com/quote/NVDA)
-* [Tesla](https://finance.yahoo.com/quote/TSLA)
 * [Meta](https://finance.yahoo.com/quote/META)
+* [Tesla](https://finance.yahoo.com/quote/TSLA)
 * [Berkshire](https://finance.yahoo.com/quote/BRK-B) [Hathaway](https://finance.yahoo.com/quote/BRK-A)
-* [Visa](https://finance.yahoo.com/quote/V)
 * [UnitedHealth Group](https://finance.yahoo.com/quote/UNH)
+* [Visa](https://finance.yahoo.com/quote/V)
 
-<!-- [Exxon Mobil](https://finance.yahoo.com/quote/XOM) -->
 <!-- [Taiwan Semiconductor Manufacturing Company](https://finance.yahoo.com/quote/TSM) -->
-<!-- [Johnson & Johnson](https://finance.yahoo.com/quote/JNJ) -->
 <!-- [JPMorgan Chase](https://finance.yahoo.com/quote/JPM) -->
+<!-- [Exxon Mobil](https://finance.yahoo.com/quote/XOM) -->
+<!-- [Johnson & Johnson](https://finance.yahoo.com/quote/JNJ) -->
 
 If you check the holdings of an S&P 500 index fund like [VOO](https://investor.vanguard.com/investment-products/etfs/profile/voo) or [IVV](https://www.ishares.com/us/products/239726/ishares-core-sp-500-etf), you'll find that the funds hold slightly more than 500 stocks. What gives? The S&P 500 is a collection of 500 companies, and a few companies have multiple [share classes](https://www.investopedia.com/terms/s/share_class.asp). Alphabet, the parent company of Google, has class A shares ([GOOGL](https://finance.yahoo.com/quote/GOOGL)) with voting power and class C shares ([GOOG](https://finance.yahoo.com/quote/GOOG)) without. Berkshire Hathaway has class B shares ([BRK-B](https://finance.yahoo.com/quote/BRK-B)) with less voting power and class A shares ([BRK-A](https://finance.yahoo.com/quote/BRK-A)) with more voting power and a six-figure share price. S&P 500 index funds naturally hold both share classes of each stock in proportion to their market caps. In order to calculate a company's allocation in a fund, you must add the weights of all share classes.
 
