@@ -103,12 +103,14 @@ It's impractical for a typical investor to invest in a different fund for each c
 * [Amazon](https://finance.yahoo.com/quote/AMZN)
 * [Nvidia](https://finance.yahoo.com/quote/NVDA)
 * [Meta](https://finance.yahoo.com/quote/META)
-* [Tesla](https://finance.yahoo.com/quote/TSLA)
 * [Berkshire](https://finance.yahoo.com/quote/BRK-B) [Hathaway](https://finance.yahoo.com/quote/BRK-A)
-* [UnitedHealth Group](https://finance.yahoo.com/quote/UNH)
+* [Tesla](https://finance.yahoo.com/quote/TSLA)
 * [Visa](https://finance.yahoo.com/quote/V)
+* [UnitedHealth Group](https://finance.yahoo.com/quote/UNH)
 
 <!-- [Taiwan Semiconductor Manufacturing Company](https://finance.yahoo.com/quote/TSM) -->
+<!-- [Novo Nordisk](https://finance.yahoo.com/quote/NVO) -->
+<!-- [LVMH (in Euros)](https://finance.yahoo.com/quote/MC.PA) -->
 <!-- [JPMorgan Chase](https://finance.yahoo.com/quote/JPM) -->
 <!-- [Exxon Mobil](https://finance.yahoo.com/quote/XOM) -->
 <!-- [Johnson & Johnson](https://finance.yahoo.com/quote/JNJ) -->
