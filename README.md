@@ -101,9 +101,9 @@ The [Nasdaq Composite](https://en.wikipedia.org/wiki/Nasdaq_Composite) and the [
 It's impractical for a typical investor to invest in a different fund for each country. So there are broader indices, such as the FTSE Global All Cap Index. This index is tracked by [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt), Vanguard's total world stock ETF. You can check VT anytime on [Yahoo! Finance](https://finance.yahoo.com/quote/VT) to see how the global cap-weighted stock market is moving. Currently, the ten most valuable public companies in the world are:
 * [Microsoft](https://finance.yahoo.com/quote/MSFT)
 * [Apple](https://finance.yahoo.com/quote/AAPL)
+* [Nvidia](https://finance.yahoo.com/quote/NVDA)
 * [Alph](https://finance.yahoo.com/quote/GOOG)[abet](https://finance.yahoo.com/quote/GOOGL) (parent of Google)
 * [Amazon](https://finance.yahoo.com/quote/AMZN)
-* [Nvidia](https://finance.yahoo.com/quote/NVDA)
 * [Meta](https://finance.yahoo.com/quote/META)
 * [Berkshire](https://finance.yahoo.com/quote/BRK-B) [Hathaway](https://finance.yahoo.com/quote/BRK-A)
 * [Taiwan Semiconductor Manufacturing Company](https://finance.yahoo.com/quote/TSM)
