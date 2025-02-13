@@ -1,3 +1,5 @@
+I recently [started a Substack](https://rjwthree.substack.com/) to organize these ideas into more bite-size and easily readable posts. You can subscribe for free. I'll mainly be working there instead of maintaining and expanding this document.
+
 # Introduction to index funds
 
 An investment is a commitment of resources with the potential for a positive return — a gain. In this guide we'll discuss various reasons for investing, like funding financial independence and retirement. The bottom line is, of course, to become richer. Let's begin with a central arena for creating wealth through investing: the stock market.
