@@ -1,4 +1,4 @@
-I recently [started a Substack](https://rjwthree.substack.com/) to organize these ideas into more bite-size and easily readable posts. You can subscribe for free. I'll mainly be working there instead of maintaining and expanding this document.
+I recently [started a Substack](https://rjwthree.substack.com/) to organize these ideas into more bite-size and easily readable posts. You can subscribe for free. I'll mainly be working there instead of maintaining and expanding this document. My new writing in the Substack is much better, in my opinion.
 
 # Introduction to index funds
 
